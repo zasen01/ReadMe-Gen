@@ -1,5 +1,5 @@
-# kkfdjlgz
-![Apache](https://img.shields.io/badge/License-APACHE%202.0-green)
+# Read Me Generator
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -7,19 +7,19 @@
 * [Test](#test)
 * [Questions](#questions)
 * [Contributors](#contributors)
-* [License](#license)
+
 
 ### Description
-kfdjlkgzj
+This project is an application that produces a professional looking readme though the terminal/bash applications.
 ### Installation
-dkzlgj
+When you first clone this to your local machine you must run npm install before running node index.js which will begin the program. 
 ### Usage
-zjkfjkl
+Free to Use to produce professional looking Read Me files
 ### Test
-jgksjlg
+N/A
 ### Questions
 For questions please contact: [zasen01](https://github.com/zasen01)
 ### Contributors
-fdjigj
+N/A
 
- For more information please visit [Apache 2.0 License Information](https://opensource.org/licenses/Apache-2.0)
+
